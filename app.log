@@ -1,0 +1,38 @@
+[2023-12-14 18:54:02,639] INFO in main: Received message from Slack: I don’t know how to deal with a client which doesn’t have any clue
+[2023-12-14 18:54:02,641] INFO in main: Thread slack_D06A4EP9Q80 is active. Message queued.
+[2023-12-14 18:54:18,006] INFO in main: client
+[2023-12-14 18:54:18,009] INFO in main: 0.85
+[2023-12-14 18:54:18,009] INFO in main: This is the user's ask:'I don’t know how to deal with a client which doesn’t have any clue' 
+ This is context for Aha Sales Genie assistant: this is an inquiry about a client related issue; be as much as possible focused on your context you have, the knowledge base provided to you: MC-Fantastic's best practices, past project debriefs, engagement definitions; when you create the response extract contextual information from there, and provide those back in your response, including specific refrences and client names from the files provided to you; if the situation is unclear, provide the user questions that can be asked.
+[2023-12-15 04:46:29,333] INFO in main: Received message from Slack: It’s like general type of org
+[2023-12-15 04:46:29,658] INFO in main: Received message from Slack: It’s like general type of org
+[2023-12-15 04:46:29,663] INFO in main: userID is slack_D06A4EP9Q80.
+[2023-12-15 04:46:29,780] INFO in main: Thread slack_D06A4EP9Q80 is active. Message queued.
+[2023-12-15 04:46:31,426] INFO in main: general
+[2023-12-15 04:46:31,427] INFO in main: 0.9
+[2023-12-15 04:46:31,427] INFO in main: This is the user's ask:'It’s like general type of org' 
+ This is context for Aha Sales Genie assistant: this is a general inquiry; make your best guess using your general skills and knowledge. If you are unsure, ask for clarifications.
+[2023-12-15 04:47:46,750] INFO in main: Received message from Slack: I have a client that is not able to articulate any clear requirements 
+[2023-12-15 04:47:46,750] INFO in main: userID is slack_D06A4EP9Q80.
+[2023-12-15 04:47:49,397] INFO in main: client
+[2023-12-15 04:47:49,398] INFO in main: 0.85
+[2023-12-15 04:47:49,398] INFO in main: This is the user's ask:'I have a client that is not able to articulate any clear requirements ' 
+ This is context for Aha Sales Genie assistant: this is an inquiry about a client related issue; be as much as possible focused on your context you have, the knowledge base provided to you: MC-Fantastic's best practices, past project debriefs, engagement definitions; when you create the response extract contextual information from there, and provide those back in your response, including specific refrences and client names from the files provided to you; if the situation is unclear, provide the user questions that can be asked.
+[2023-12-15 04:47:49,585] INFO in main: Received message from Slack: I have a client that is not able to articulate any clear requirements 
+[2023-12-15 04:47:49,586] INFO in main: Thread slack_D06A4EP9Q80 is active. Message queued.
+[2023-12-15 04:49:56,466] INFO in main: Received message from Slack: Yes, please give me more details
+[2023-12-15 04:49:56,467] INFO in main: userID is slack_D06A4EP9Q80.
+[2023-12-15 04:49:58,122] INFO in main: general
+[2023-12-15 04:49:58,129] INFO in main: 0.8
+[2023-12-15 04:49:58,129] INFO in main: This is the user's ask:'Yes, please give me more details' 
+ This is context for Aha Sales Genie assistant: this is a general inquiry; make your best guess using your general skills and knowledge. If you are unsure, ask for clarifications.
+[2023-12-15 04:49:59,437] INFO in main: Received message from Slack: Yes, please give me more details
+[2023-12-15 04:49:59,437] INFO in main: Thread slack_D06A4EP9Q80 is active. Message queued.
+[2023-12-15 04:52:08,338] INFO in main: Received message from Slack: Who are company x and y?
+[2023-12-15 04:52:08,338] INFO in main: userID is slack_D06A4EP9Q80.
+[2023-12-15 04:52:10,018] INFO in main: general
+[2023-12-15 04:52:10,018] INFO in main: 0.85
+[2023-12-15 04:52:10,019] INFO in main: This is the user's ask:'Who are company x and y?' 
+ This is context for Aha Sales Genie assistant: this is a general inquiry; make your best guess using your general skills and knowledge. If you are unsure, ask for clarifications.
+[2023-12-15 04:52:11,433] INFO in main: Received message from Slack: Who are company x and y?
+[2023-12-15 04:52:11,434] INFO in main: Thread slack_D06A4EP9Q80 is active. Message queued.
